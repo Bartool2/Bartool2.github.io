@@ -1,2 +1,4 @@
 # Bartool2.github.io
-Portfolio website page hosted on Github
+Portfolio webspage hosted on Github
+
+In development
